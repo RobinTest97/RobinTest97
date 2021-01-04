@@ -14,5 +14,10 @@
   <ul>
     <li>My parents restricted my Internet access through Routers and other systems as I was younger but I always found a way around the restrictions!             :space_invader:</li>
   </ul>
-  
+</ul>
+
+Here are two links to the current research project i'm a part of:
+ <ul>
+    <li>Project Website : (https://cslsa.de/)</li>
+    <li>University research article: (https://www.hs-harz.de/forschung/ausgewaehlte-forschungsprojekte/cyber-security/)</li>
 </ul>
